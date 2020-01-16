@@ -1,9 +1,9 @@
 # Formation CSS Eirbware - Enseirb-MATMECA
 
 ## Introduction
-CSS (Cascading Style Sheets ou Feuilles de style en cascade) est un langage de description des docs HTML/XML, créé en 1996.
+CSS (Cascading Style Sheets ou Feuilles de style en cascade) est un langage de description des documents HTML/XML, créé en 1996.
 
-Dernier standard défini par la W3C : CSS "4", avec des modules indépendant mis à jour fréquemment.
+Dernier standard défini par la W3C : CSS "4", avec des modules indépendants mis à jour fréquemment.
 
 Fonctionne sur un système de sélecteurs (elements, IDs, classes) pour styliser la page web.
 
