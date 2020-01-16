@@ -169,6 +169,9 @@ p {
 * ```padding: 12px;``` ou ```padding: 12px 20px;``` ou ```padding: 12px 20px 12px 15px;```: marge intérieure
 * ```margin: 50px;``` ou ```margin: 50px 25px;``` ou ```margin: 50px 25px 30px 20px;``` : marge extérieure
   * https://www.w3schools.com/css/css_margin.asp
+* ```position: absolute;``` : position de l'élément (static, absolute, relative, fixed, sticky)
+* ```top: 80px;```, ```bottom: 80px;```, ```left: 80px;```, ```right: 80px;``` : position par rapport à la propriété ```position``` (en px ou %)
+  * https://www.w3schools.com/css/css_positioning.asp
 
 ## Liens utiles
 * W3Schools (référence CSS) : https://www.w3schools.com/css/
@@ -176,3 +179,4 @@ p {
 * W3C (standard CSS) : http://www.stylesheets.fr/Style/
 * Caniuse (compatibilité propriétés CSS selon les navigateurs) : https://www.caniuse.com/
 * Bootstrap (bibliothèque HTML/CSS/JS) : https://getbootstrap.com/
+* MOOC OpenClassrooms : https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3
